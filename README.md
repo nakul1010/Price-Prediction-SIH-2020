@@ -1,0 +1,2 @@
+# Price-Prediction-SIH-2020
+Cotton is a commodity, which is perhaps the most volatile among all the agricultural commodities traded. Due to high voiatility in cotton prices, it is very difficult to predict the future market trend and accordingly sales strategy so as to compete in the market and increase the volume of the corporation for sustainable growth. Thus, Artificial Intelligence based solution which may calculate the probability of future market trend on the basis of past years data and suggest a suitable pricing model for sale of cotton
